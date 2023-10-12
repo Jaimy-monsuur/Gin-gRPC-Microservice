@@ -49,9 +49,3 @@ The gRPC service exposes the following methods:
 
 You can interact with the service using gRPC client libraries in various programming languages.
 
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
--
